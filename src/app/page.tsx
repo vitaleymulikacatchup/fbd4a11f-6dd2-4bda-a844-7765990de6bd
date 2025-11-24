@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
 import HeroBillboardScroll from '@/components/sections/hero/HeroBillboardScroll';
@@ -271,7 +271,7 @@ export default function LandingPage() {
             "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32SiMkwDFagCJqdtr8SgryeO9Cj/uploaded-1764003670604-yd0zeb9e.jpg",
             "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32SiMkwDFagCJqdtr8SgryeO9Cj/uploaded-1764003672236-of9wzpfu.jpg",
             "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32SiMkwDFagCJqdtr8SgryeO9Cj/uploaded-1764003673685-3r47k1nf.jpg"
-          ]
+          ]}
           speed={35}
           showCard={true}
         />
